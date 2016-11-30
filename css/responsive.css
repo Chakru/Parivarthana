@@ -1,0 +1,451 @@
+/* Fitnastic Health and Welness HTML5 Template */
+@media only screen and (max-width: 1400px){
+	.shop-items-section .items-outer .shop-item,
+	.shop-items-section .items-outer{
+		padding:0px 15px;	
+	}
+}
+
+
+@media only screen and (max-width: 1360px){
+	.team-section .owl-controls .owl-prev{
+		left:-30px;
+	}
+	
+	.team-section .owl-controls .owl-next{
+		right:-30px;
+	}
+}
+
+@media only screen and (max-width: 1140px){
+	
+	.main-header{
+		position:relative;
+		margin:0px !important;
+		background:#353535;	
+	}
+	
+	.page-title{
+		padding:80px 0px;	
+	}
+	
+	.main-header .social-links-one{
+		top:-15px;	
+	}
+	
+	.main-menu .navigation > li{
+		margin:0px 10px;
+	}
+	
+	.blog-news-section{
+		padding-right:0px !important;	
+	}
+	
+	.main-menu .left-nav{
+		padding-right:70px;	
+	}
+	
+	.main-menu .right-nav{
+		padding-left:70px;	
+	}
+	
+	.page-wrapper{
+		overflow:hidden;	
+	}
+	
+	.team-section .owl-controls{
+		display:none;	
+	}
+	
+	.nature-block h3{
+		font-size:16px;	
+	}
+	
+	.default-portfolio-item.masonry-item.big-item{
+		width:50%;	
+	}
+	
+	.default-portfolio-item.masonry-item.small-item{
+		width:25%;	
+	}
+	
+	.main-footer .upper-container{
+		padding-left:0px;	
+	}
+	
+	.main-footer .upper-container .logo-image{
+		position:relative;
+		text-align:center;
+		margin:0 auto 80px;	
+	}
+	
+	.featured-item .inner-box h3{
+		display:block;
+		margin-bottom:25px;
+		padding-right:0px;	
+	}
+	
+	.featured-item .inner-box .theme-btn{
+		top:0px;	
+	}
+	
+	.post-style-one .inner-box{
+		padding-left:0px;	
+	}
+	
+	.post-style-one .inner-box .image-box{
+		position:relative;
+		left:0px;
+		top:0px;
+		width:100%;
+		height:auto;	
+	}
+	
+	.gallery-section .medium-column,
+	.gallery-section .bigger-column{
+		width:100%;	
+	}
+	
+	.what-we-do .features-outer{
+		background:none !important;	
+	}
+	
+	.what-we-do .left-column .feature-block .inner-box,
+	.what-we-do .right-column .feature-block .inner-box{
+		margin-left:0px !important;
+		margin-right:0px !important;	
+	}
+	
+	.main-footer .footer-bottom .inline-element{
+		display:block;
+		width:100%;
+		max-width:600px;
+		padding:10px 0px !important;
+		margin:0px auto;
+	}
+	
+	.why-gymnastics .featured-column .inner-box{
+		padding:60px 20px;	
+	}
+}
+
+@media only screen and (min-width: 768px){
+	.main-menu .navigation > li > ul,
+	.main-menu .navigation > li > ul > li > ul{
+		display:block !important;
+		visibility:hidden;
+		opacity:0;
+	}
+}
+
+@media only screen and (max-width: 1023px){
+	
+	.main-header .main-box .logo-box {
+		position:relative;
+		left:0px;
+		top:0px;
+		right:0px;
+		bottom:0px;
+		width:200px;
+		margin:0px;
+		text-align:left;
+	}
+	
+	.main-header .nav-outer,
+	.nav-outer .main-menu{
+		display:none;
+	}
+	
+	.main-header .nav-toggler{
+		display:block;
+	}
+	
+	.main-header .search-box-btn{
+		right:80px;	
+	}
+	
+	.why-choose-yoga .features-outer{
+		background-image:none !important;
+		padding-bottom:30px;	
+	}
+	
+	.what-we-do .left-column .feature-block .inner-box,
+	.what-we-do .right-column .feature-block .inner-box{
+		max-width:none !important;
+		margin:0px !important;	
+	}
+	
+	.main-footer .footer-widget{
+		padding-left:0px;	
+	}
+	
+	.video-section .outer-box .column{
+		padding:0px 20px;	
+	}
+	
+	.call-to-action h3{
+		font-size:22px;
+		padding-bottom:20px;
+	}
+	
+	.call-to-action,
+	.call-to-action .text-right{
+		text-align:center;	
+	}
+	
+	.sec-title h2,
+	.featured-item .inner-box h3 .price,
+	.featured-item .inner-box h3{
+		font-size:24px;	
+	}
+	
+	.gallery-single-post .info-column{
+		padding-left:15px;	
+	}
+	
+	.sidebar-page-container .blog-section{
+		padding-right:0px !important;	
+	}
+	
+	.contact-section .info-block{
+		text-align:center;
+		padding-right:0px;	
+	}
+	
+	.contact-section .info-block .icon-box{
+		position:relative;
+		top:0px;
+		right:0px;
+		margin:0px auto 20px;	
+	}
+	
+	.quote-section{
+		padding:120px 0px;	
+	}
+	
+	.quote-section .quote-text{
+		font-size:22px;	
+	}
+	
+	.contact-section .form-column{
+		padding-left:15px;	
+	}
+	
+}
+
+@media only screen and (max-width: 767px){
+	
+	.header-upper .logo-outer {
+		position:relative;
+		left:0px;
+		top:0px;
+		right:0px;
+		bottom:0px;
+		width:100%;
+		margin:0px;
+	}
+	
+	.default-portfolio-item.masonry-item.big-item,
+	.default-portfolio-item.masonry-item.small-item{
+		width:100%;	
+	}
+	
+	.main-header .header-top .top-right ul li,
+	.main-header .header-top .top-left ul li{
+		margin:0px 5px;	
+	}
+	
+	.what-we-do .left-column .feature-block .inner-box,
+	.what-we-do .right-column .feature-block .inner-box{
+		max-width:450px !important;
+		margin:0px auto !important;
+		text-align:center !important;
+		padding:0px !important;
+		float:none;	
+	}
+	
+	.what-we-do .left-column .feature-block .icon-box,
+	.what-we-do .right-column .feature-block .icon-box{
+		position:relative !important;
+		left:0px !important;
+		top:0px !important;
+		right:0px !important;
+		bottom:0px !important;
+		margin:0 auto 20px !important;
+	}
+	
+	.main-slider .tp-caption{
+		display:none !important;	
+	}
+	
+	.error-section .big-text{
+		font-size:120px;	
+	}
+	
+	.error-section h3{
+		font-size:22px;	
+	}
+	
+	.post-style-one .inner-box .post-info .meta{
+		display:none;	
+	}
+	
+	.post-style-one .inner-box .post-info h3{
+		padding-top:15px;	
+	}
+	
+	.sidebar-page-container .about-author .inner-box{
+		padding-left:0px;	
+	}
+	
+	.sidebar-page-container .about-author .author-thumb{
+		position:relative;
+		margin-bottom:20px;	
+	}
+	
+	.search-popup .search-form fieldset input[type="search"]{
+		font-size:15px;
+		padding:10px 15px;
+		border-radius:0px;
+	}
+	
+	.search-popup .search-form fieldset input[type="submit"]{
+		position:relative;
+		width:100%;
+		border-radius:0px;
+	}
+	
+}
+
+@media only screen and (max-width: 599px){
+	
+	.sidebar-page-container .comments-area .reply-btn{
+		position:relative !important;
+		top:5px !important;
+		right:0px;	
+	}
+	
+	.blog-news-section .post-share-options .pull-right.text-left{
+		float:left !important;
+		padding-top:10px !important;
+		width:100%;
+	}
+	
+	.tabbed-events .event-btn .event-date{
+		position:relative;
+		left:0px;
+		top:0px;
+		width:100%;
+		padding:15px 10px;	
+	}
+	
+	.tabbed-events .event-btn .event-date .day{
+		display:inline-block;
+		padding-right:10px;	
+	}
+	
+	.tabbed-events .event-btn{
+		padding-right:0px;	
+	}
+	
+	.tabbed-events .event-btn:after{
+		display:none;	
+	}
+	
+	.tabbed-events .event-btn.active{
+		border:4px solid #0060b2;	
+	}
+	
+	.pricing-column .inner-box .priceing-header .price{
+		font-size:32px;	
+	}
+	
+	.prod-tabs .reviews-container .review-box{
+		padding-left:0px;	
+	}
+	
+	.prod-tabs .reviews-container .rev-thumb{
+		position:relative;
+		left:0px;
+		top:0px;
+		margin-bottom:20px;
+	}
+	
+	.prod-tabs .tab-btns .tab-btn{
+		display:block;
+		margin:0px 0px 10px;
+		text-align:center;	
+	}
+	
+	.form-box.bordered-form{
+		padding:20px 15px;	
+	}
+	
+	.sidebar-page-container .comments-area .reply-comment{
+		margin-left:0px;	
+	}
+	
+	.quote-section .quote-text,
+	.quote-section .quote-author{
+		text-align:center;	
+	}
+	
+	.event-form-box .form-group{
+		margin:0px 0px 20px;
+		display:block;
+		width:100%;	
+	}
+	
+	.sec-title .desc-text{
+		font-size:15px;	
+	}
+}
+
+@media only screen and (max-width: 499px) {
+	
+	.main-header .main-box .logo-box .logo img{
+		max-width:70%;	
+	}
+	
+	.testimonials-section .testimonial-slider .slide-item{
+		padding:0px 15px;
+	}
+	
+	.testimonials-section .owl-controls{
+		display:none;	
+	}
+	
+	.pricing-column .inner-box .pricing-content{
+		padding:20px 15px;	
+	}
+	
+	.search-website .form-group button{
+		position:relative;
+		width:100%;	
+	}
+	
+	.page-info .pull-left,
+	.page-info .pull-right{
+		width:100%;
+		padding:10px 0px;	
+	}
+	
+	.prod-tabs .tabs-container .tab{
+		padding:20px 15px;
+	}
+	
+	.post-style-one .inner-box .post-info h3{
+		padding-top:0px;	
+	}
+	
+	.sidebar-page-container .comments-area .comment{
+		padding-left:0px;	
+	}
+	
+	.sidebar-page-container .comments-area .comment-box .author-thumb{
+		position:relative;
+		left:0px;
+		top:0px;
+		margin-bottom:20px;	
+	}
+}
